@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line_yuan",
+    "texture": "943d2ce8-b3c0-4e01-8e99-6249a266cc3d",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      53,
+      53
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shiyong",
+    "texture": "31f50a8a-d70c-4cbd-8a23-b848be0d8d81",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      408,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      408,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

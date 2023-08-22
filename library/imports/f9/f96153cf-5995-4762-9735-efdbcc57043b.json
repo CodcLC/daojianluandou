@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shousha",
+    "texture": "eb88470f-236e-4ac1-be5d-f1c4a77d44b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mingzi_di",
+    "texture": "ba277b74-9a07-4178-98ed-d94fc8197d69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

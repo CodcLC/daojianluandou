@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_tiao",
+    "texture": "2f05c487-cc62-45a7-ae98-1955f10cebc3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

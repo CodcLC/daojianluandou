@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xingqiu-4",
+    "texture": "caa2bfb6-05d3-4ead-a699-3950c90205ac",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      114,
+      112
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      115,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

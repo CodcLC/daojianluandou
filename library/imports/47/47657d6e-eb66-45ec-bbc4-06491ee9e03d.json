@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "星球皮肤",
+    "texture": "48ef3f97-6001-42c6-97c5-dd50cce33c6b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      127,
+      114
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      127,
+      114
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "killeffect",
+    "texture": "78e9a133-74ea-48d5-bcca-b8e40fbda27b",
+    "atlas": "",
+    "rect": [
+      16,
+      9,
+      748,
+      560
+    ],
+    "offset": [
+      -8.5,
+      11
+    ],
+    "originalSize": [
+      797,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

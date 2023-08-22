@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line03_bule",
+    "texture": "0999c46d-8709-4e07-8bc7-f9cfdda642bf",
+    "atlas": "",
+    "rect": [
+      7,
+      0,
+      115,
+      128
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipei_wenzi",
+    "texture": "92e98d3b-7919-42a3-b8bd-5ebb677b606f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      459,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      459,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

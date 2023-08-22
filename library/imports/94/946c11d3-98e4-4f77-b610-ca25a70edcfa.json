@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yaogan_di",
+    "texture": "845f1b42-777b-4f22-949e-63d1ef719c08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      143,
+      143
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      143
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

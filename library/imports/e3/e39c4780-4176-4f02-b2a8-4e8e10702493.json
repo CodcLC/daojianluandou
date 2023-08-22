@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinji",
+    "texture": "18cb9174-de90-47a8-9790-d84069f7122b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      530,
+      137
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      530,
+      137
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

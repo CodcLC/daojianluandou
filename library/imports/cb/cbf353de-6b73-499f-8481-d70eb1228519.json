@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toukuang_di",
+    "texture": "6f112e65-1fe3-45fc-9f72-e15d8b8881d2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

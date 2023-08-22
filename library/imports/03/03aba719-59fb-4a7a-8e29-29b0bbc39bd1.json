@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_duo",
+    "texture": "6977ea29-1c24-4cc7-a4eb-168b3ce4f115",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

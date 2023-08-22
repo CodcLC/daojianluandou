@@ -1,0 +1,41 @@
+// Learn TypeScript:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/typescript.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/typescript.html
+// Learn Attribute:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/reference/attributes.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/reference/attributes.html
+// Learn life-cycle callbacks:
+//  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
+//  - [English] http://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
+
+
+export default class CustomEventType 
+{
+    /**
+     * 新的一天
+     */
+    public static NewDay = "newDay";
+
+    /**
+     * 金币发生改变时
+     */
+    public static CoinChange = "coinChange";
+
+    /**
+     * 黄金发生改变时
+     */
+    public static GoldChange = "goldChange";
+
+    /**
+     * 钻石发生改变时
+     */
+    public static DiamondChange = "diamondChange";
+
+    /**
+     * 钻石发生改变时
+     */
+    public static ShareTicketUpdate = "shareTicketUpdate";
+
+
+    
+}

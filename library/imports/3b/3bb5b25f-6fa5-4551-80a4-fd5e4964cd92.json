@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jifen_tiao",
+    "texture": "dbef5a86-999b-4a03-a4b7-133764c38cb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      13
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

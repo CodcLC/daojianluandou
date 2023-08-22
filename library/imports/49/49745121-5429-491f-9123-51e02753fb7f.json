@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zangai-dong_1",
+    "texture": "c3949d6e-9eea-40cd-88a0-ba1f9eaeb57a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      325
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      325
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

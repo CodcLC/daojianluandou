@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mingci_8",
+    "texture": "b817d4dd-ebcb-40bd-91f5-6284a01a43c1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      87,
+      118
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      87,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

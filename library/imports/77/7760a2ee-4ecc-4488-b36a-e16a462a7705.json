@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biaoqing_2",
+    "texture": "62799b27-d6bd-4446-b396-948345c3c3ee",
+    "atlas": "",
+    "rect": [
+      9,
+      19,
+      93,
+      80
+    ],
+    "offset": [
+      -2,
+      -1.5
+    ],
+    "originalSize": [
+      115,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

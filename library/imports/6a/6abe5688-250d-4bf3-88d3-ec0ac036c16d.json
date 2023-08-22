@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "baiyang",
+    "texture": "d51add78-dd63-4329-8f98-bbb294c79568",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      1023.9
+    ],
+    "offset": [
+      0,
+      0.05000000000001137
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

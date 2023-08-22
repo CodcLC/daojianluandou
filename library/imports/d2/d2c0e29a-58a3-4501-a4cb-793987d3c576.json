@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duanwei-jieji-2",
+    "texture": "e0355313-c7ff-42fd-af57-b9a9287dd4ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      22
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

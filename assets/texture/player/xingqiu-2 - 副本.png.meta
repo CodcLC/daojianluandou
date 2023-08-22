@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ead21178-bfea-4c4b-a94a-fd3b92f414ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 115,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "xingqiu-2 - 副本": {
+      "ver": "1.0.4",
+      "uuid": "9e3fd74e-0b49-4176-8450-ca5cecdfcecc",
+      "rawTextureUuid": "ead21178-bfea-4c4b-a94a-fd3b92f414ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 115,
+      "rawWidth": 115,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

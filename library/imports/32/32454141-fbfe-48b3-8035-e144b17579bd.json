@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jingji_tex",
+    "texture": "2df4833d-27e0-40a1-8a15-f07767f3b5a4",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      456,
+      224
+    ],
+    "offset": [
+      -27,
+      15
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jisha_kuang",
+    "texture": "7427bb12-342b-4f2f-931d-ab7a98798a4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      201,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      201,
+      53
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

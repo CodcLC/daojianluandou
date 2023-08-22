@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_paihang",
+    "texture": "5c35798e-52f5-474f-89c7-fabf728393d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

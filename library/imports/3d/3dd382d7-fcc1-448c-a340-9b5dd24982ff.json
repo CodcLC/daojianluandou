@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yingdao_shouzhi",
+    "texture": "bf0bdf71-ff6a-42fe-bebd-572c1f100e5a",
+    "atlas": "",
+    "rect": [
+      13,
+      25,
+      1817,
+      555
+    ],
+    "offset": [
+      6.5,
+      -2.5
+    ],
+    "originalSize": [
+      1830,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

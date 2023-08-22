@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pipei_di",
+    "texture": "f71fa9f6-28aa-40ee-8c3e-cd3c37930361",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      715,
+      391
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      715,
+      391
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

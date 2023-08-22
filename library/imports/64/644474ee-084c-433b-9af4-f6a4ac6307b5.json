@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "daotp.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "dao_0": {
+      "__uuid__": "17e76924-3560-4d93-9ddc-f15e36da5395"
+    },
+    "dao_1": {
+      "__uuid__": "627a0c8f-f97e-42b8-88c9-07e19ec806e6"
+    },
+    "dao_10": {
+      "__uuid__": "71c2d10b-c81e-4105-9c2f-cf972a606af8"
+    },
+    "dao_11": {
+      "__uuid__": "e1326400-8eb2-4139-9d0a-20744db17d23"
+    },
+    "dao_12": {
+      "__uuid__": "69c613f4-1828-4d86-a1bb-ff7fd8854a0b"
+    },
+    "dao_13": {
+      "__uuid__": "aa83f87d-4d60-46ff-a6c3-da1312432be1"
+    },
+    "dao_14": {
+      "__uuid__": "e1f505f9-ec0d-4309-99dc-f1f6654a2a3a"
+    },
+    "dao_15": {
+      "__uuid__": "ae2de3f3-7c85-4265-ad4c-606918f2d22e"
+    },
+    "dao_16": {
+      "__uuid__": "e20d19ab-e305-42db-a24f-3826bccabc29"
+    },
+    "dao_17": {
+      "__uuid__": "77602b00-af90-4a23-8892-20cd220230b5"
+    },
+    "dao_18": {
+      "__uuid__": "6be7a191-485f-4b51-aac7-a933c422208e"
+    },
+    "dao_19": {
+      "__uuid__": "526cabd4-3967-4b52-8bf9-109a1ac1897c"
+    },
+    "dao_2": {
+      "__uuid__": "5fc69fae-a57c-4b0c-bf5d-16d79b02d3d9"
+    },
+    "dao_20": {
+      "__uuid__": "763d6972-3a0a-4467-b2eb-c9d6253e1076"
+    },
+    "dao_21": {
+      "__uuid__": "2bf6099b-76c8-4f41-8048-9562e80dcfbd"
+    },
+    "dao_22": {
+      "__uuid__": "9769136b-02bf-4d36-84b0-cfd691932682"
+    },
+    "dao_23": {
+      "__uuid__": "63802b1c-d60b-44e9-839a-9b7d78248384"
+    },
+    "dao_24": {
+      "__uuid__": "367a0c51-771a-4c64-a3a7-eac0213337aa"
+    },
+    "dao_3": {
+      "__uuid__": "3ec60dfb-1475-477d-8db6-2d2b373159de"
+    },
+    "dao_4": {
+      "__uuid__": "3d205374-a0d3-4562-a539-963401e970a7"
+    },
+    "dao_5": {
+      "__uuid__": "a6d4cb67-4cef-4693-986c-e5917448544c"
+    },
+    "dao_6": {
+      "__uuid__": "6753367d-4b6d-4186-998b-4cf52aee9252"
+    },
+    "dao_7": {
+      "__uuid__": "f9988c1e-f1a3-4ef7-a655-61172935c9e1"
+    },
+    "dao_8": {
+      "__uuid__": "d576e064-b9b5-4040-af3d-756535ee725a"
+    },
+    "dao_9": {
+      "__uuid__": "451c5d99-5b0a-4148-ae41-267c16e6c5a9"
+    },
+    "ming_xian": {
+      "__uuid__": "095cd02e-6c2b-484d-9610-94154cd341b2"
+    },
+    "xingqiu-1": {
+      "__uuid__": "6c8f2842-8cdd-4b0c-ad3c-6010f41a32c1"
+    },
+    "xingqiu-2": {
+      "__uuid__": "d0e26dbc-fece-4dcd-94db-e32b63a637f8"
+    },
+    "xingqiu-3": {
+      "__uuid__": "fc0537f6-5813-4e83-89e5-fd3c1ddb5870"
+    },
+    "xingqiu-4": {
+      "__uuid__": "9ea81f9d-5d53-4de1-92b4-d965a6c64dff"
+    },
+    "xingqiu-5": {
+      "__uuid__": "17ee6b7e-8889-40be-ae81-45e9c2c8b4bc"
+    },
+    "xingqiu-6": {
+      "__uuid__": "0b23f82b-44fb-475f-8abf-f926dd9fd3ae"
+    },
+    "xingqiu-7": {
+      "__uuid__": "b44fc7e6-9ed3-495a-92e0-96a9a3dfe5ee"
+    },
+    "xingqiu-8": {
+      "__uuid__": "d118a2f8-58e6-461a-ba95-eab57b7730bb"
+    }
+  }
+}

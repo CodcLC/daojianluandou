@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liansha2",
+    "texture": "ab2c16ca-bf37-4a12-b65b-3f9972a0727b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

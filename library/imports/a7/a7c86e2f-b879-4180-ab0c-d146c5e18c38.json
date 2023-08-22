@@ -1,0 +1,14 @@
+{
+  "__type__": "dragonBones.DragonBonesAtlasAsset",
+  "_name": "bai_tex",
+  "_objFlags": 0,
+  "_native": "",
+  "_atlasJson": "{\"SubTexture\":[{\"y\":1,\"frameX\":-1,\"frameHeight\":100,\"frameY\":-1,\"width\":98,\"frameWidth\":100,\"height\":98,\"name\":\"椭圆 1 拷贝 7\",\"x\":1}],\"width\":128,\"imagePath\":\"bai_tex.png\",\"height\":128,\"name\":\"bai\"}",
+  "_texture": {
+    "__uuid__": "9e67fbfc-01ec-41e2-8cf3-de64a567870b"
+  },
+  "texture": {
+    "__uuid__": "9e67fbfc-01ec-41e2-8cf3-de64a567870b"
+  },
+  "_textureAtlasData": null
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zangai_1",
+    "texture": "b60b7f79-24ec-4167-9d23-4fb3647ba5b7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      397,
+      325
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      397,
+      325
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

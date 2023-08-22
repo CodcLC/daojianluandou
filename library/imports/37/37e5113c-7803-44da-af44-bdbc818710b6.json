@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duanwei_di",
+    "texture": "5c5a8e76-1744-45aa-9d91-93f33fd0d251",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      486,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      486,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

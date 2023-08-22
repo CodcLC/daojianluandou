@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "查看排行",
+    "texture": "4cd7a611-743d-4447-9065-38a2ae1a1c98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      91,
+      93
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      91,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daotp",
+    "texture": "2ce90851-2669-4cc4-bcd1-cd77e22d05ee",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      955,
+      251
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      960,
+      253
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

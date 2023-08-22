@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ming_xian",
+    "texture": "2ce90851-2669-4cc4-bcd1-cd77e22d05ee",
+    "atlas": "644474ee-084c-433b-9af4-f6a4ac6307b5",
+    "rect": [
+      42,
+      127,
+      122,
+      26
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      26
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

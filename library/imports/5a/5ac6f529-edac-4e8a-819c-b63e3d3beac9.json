@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bnt_guanggao_7",
+    "texture": "0d2c97b6-7324-47ec-9b2d-76f8aa952776",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      172,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      172,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

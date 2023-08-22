@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SSR",
+    "texture": "078768b7-2ef1-4ed3-8569-5af1ca389bb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

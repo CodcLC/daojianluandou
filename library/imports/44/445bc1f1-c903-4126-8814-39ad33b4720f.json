@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dao_2",
+    "texture": "ab1c070d-3a9c-4330-afa1-fd6b5ddeb8ea",
+    "atlas": "",
+    "rect": [
+      28,
+      26,
+      19,
+      71
+    ],
+    "offset": [
+      1,
+      0.5
+    ],
+    "originalSize": [
+      73,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

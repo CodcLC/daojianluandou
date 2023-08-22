@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "line03_ice",
+    "texture": "c0495446-f610-49e5-84ab-d9fa9d5524a3",
+    "atlas": "",
+    "rect": [
+      7,
+      0,
+      115,
+      128
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
